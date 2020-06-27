@@ -1,0 +1,5 @@
+We also recommend the Zynq training videos which you can find below:
+http://www.googoolia.com/wp/category/zynq-training/
+
+The videos are very detailed and you can take ideas from them on how to 
+implement your design.
